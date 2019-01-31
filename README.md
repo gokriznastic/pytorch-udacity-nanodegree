@@ -14,3 +14,4 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 - [Anaconda](https://anaconda.org/)
 - [Jupyter Notebooks](https://jupyter.org/)
 - Matrix Math and [NumPy](http://www.numpy.org/) Refresher
+-----------------------------------------------------------------------------------------------------------
