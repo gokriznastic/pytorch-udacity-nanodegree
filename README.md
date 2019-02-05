@@ -5,28 +5,28 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 
 ## Introduction to Deep Learning
 
-#### Lesson 1
+- #### Lesson 1
 ### Welcome to the [Deep Learning Nanodegree](https://in.udacity.com/course/deep-learning-nanodegree--nd101) Program
 
-#### Lesson 2
+- #### Lesson 2
 ### [Career Services](https://www.udacity.com/career-services) Available to You
 
-#### Lesson 3
+- #### Lesson 3
 ### Get Help from Peers and Mentors
 
-#### Lesson 4
+- #### Lesson 4
 ### Get Help with Your Account
 
-#### Lesson 5
+- #### Lesson 5
 ### Applying Deep Learning
 
-#### Lesson 6
+- #### Lesson 6
 ### [Anaconda](https://anaconda.org/)
 
-#### Lesson 7
+- #### Lesson 7
 ### [Jupyter Notebooks](https://jupyter.org/)
 
-#### Lesson 8
+- #### Lesson 8
 ### Matrix Math and [NumPy](http://www.numpy.org/) Refresher
 
 -----------------------------------------------------------------------------------------------------------
