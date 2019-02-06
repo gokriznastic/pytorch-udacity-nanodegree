@@ -37,4 +37,4 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 
 #### Lesson 4 - GPU Workspaces Demo
 
-#### Project - [Predicting Bike-Sharing Patterns](https://github.com/gokriznastic/pred-bike-sharing-patterns)
+### Project - [Predicting Bike-Sharing Patterns](https://github.com/gokriznastic/pred-bike-sharing-patterns)
