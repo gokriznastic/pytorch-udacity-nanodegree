@@ -38,3 +38,8 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 #### Lesson 4 - GPU Workspaces Demo
 
 ### Project - [Predicting Bike-Sharing Patterns](https://github.com/gokriznastic/pred-bike-sharing-patterns)
+
+#### Lesson 6 - Sentiment Analysis
+
+- [Notebook: Sentiment Analysis](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L6%20sentiment-analysis-network/Sentiment_Classification_Projects.ipynb)
+
