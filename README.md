@@ -45,19 +45,19 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 
 #### Lesson 7 - Deep Learning with PyTorch
 
-[1 - Tensors in PyTorch](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%201%20-%20Tensors%20in%20PyTorch.ipynb)
+- [1 - Tensors in PyTorch](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%201%20-%20Tensors%20in%20PyTorch.ipynb)
 
-[2 - Neural Networks in PyTorch](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch.ipynb)
+- [2 - Neural Networks in PyTorch](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch.ipynb)
 
-[3 - Training Neural Networks](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%203%20-%20Training%20Neural%20Networks.ipynb)
+- [3 - Training Neural Networks](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%203%20-%20Training%20Neural%20Networks.ipynb)
 
-[4 - Fashion-MNIST](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%204%20-%20Fashion-MNIST.ipynb)
+- [4 - Fashion-MNIST](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%204%20-%20Fashion-MNIST.ipynb)
 
-[5 - Inference and Validation](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%205%20-%20Inference%20and%20Validation.ipynb)
+- [5 - Inference and Validation](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%205%20-%20Inference%20and%20Validation.ipynb)
 
-[6 - Saving and Loading Models](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb)
+- [6 - Saving and Loading Models](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb)
 
-[7 - Loading Image Data](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%207%20-%20Loading%20Image%20Data.ipynb)
+- [7 - Loading Image Data](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%207%20-%20Loading%20Image%20Data.ipynb)
 
-[8 - Transfer Learning](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%208%20-%20Transfer%20Learning.ipynb)
+- [8 - Transfer Learning](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%208%20-%20Transfer%20Learning.ipynb)
 
