@@ -73,5 +73,5 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 
 - [CIFAR 10 Classification (Notebooks)](https://github.com/gokriznastic/pytorch-udacity-nanodegree/tree/master/3.%20Convolutional%20Neural%20Networks/L1%20Convolutional%20Neural%20Networks/cifar-cnn)
 
-#### Lesson 1 - Cloud Computing
+#### Lesson 2 - Cloud Computing
 
