@@ -61,3 +61,17 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 
 - [8 - Transfer Learning](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/2.%20Neural%20Networks/L7%20intro-to-pytorch/Part%208%20-%20Transfer%20Learning.ipynb)
 
+-----------------------------------------------------------------------------------------------------------
+
+## Convolutional Neural Networks
+
+#### Lesson 1 - Convolutional Neural Networks
+
+- [Notebook: MNIST-MLP](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/3.%20Convolutional%20Neural%20Networks/L1%20Convolutional%20Neural%20Networks/mnist-mlp/mnist_mlp_exercise.ipynb)
+
+- [Convolutional Layer Visualization (Notebooks)](https://github.com/gokriznastic/pytorch-udacity-nanodegree/tree/master/3.%20Convolutional%20Neural%20Networks/L1%20Convolutional%20Neural%20Networks/conv-visualization)
+
+- [CIFAR 10 Classification (Notebooks)](https://github.com/gokriznastic/pytorch-udacity-nanodegree/tree/master/3.%20Convolutional%20Neural%20Networks/L1%20Convolutional%20Neural%20Networks/cifar-cnn)
+
+#### Lesson 1 - Cloud Computing
+
