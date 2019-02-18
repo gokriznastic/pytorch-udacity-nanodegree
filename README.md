@@ -76,4 +76,9 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 #### Lesson 2 - Cloud Computing
 
 #### Lesson 3 - Transfer Learning
+
 - [Notebook: Transfer Learning](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/3.%20Convolutional%20Neural%20Networks/L3%20Transfer%20Learning/transfer-learning/Transfer_Learning.ipynb)
+
+#### Lesson 4 - Weight Initialization
+
+- [Notebook: Transfer Learning](https://github.com/gokriznastic/pytorch-udacity-nanodegree/blob/master/3.%20Convolutional%20Neural%20Networks/L4%20Weight%20Initialization/weight-initialization/weight_initialization.ipynb)
