@@ -88,3 +88,5 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 #### Lesson 6 - Style Transfer
 
 - [Notebook: Neural Style Transfer](3.%20Convolutional%20Neural%20Networks/L6%20Style%20Transfer/style-transfer/Style_Transfer.ipynb)
+
+### Project - [Dog Breed Classifier](https://github.com/gokriznastic/dog-breed-classifier)
