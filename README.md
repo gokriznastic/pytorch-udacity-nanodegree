@@ -85,8 +85,27 @@ A collection of notebooks and projects done as a part of Udacity's Deep Learning
 
 #### Lesson 5 - Autoencoders
 
+- [Notebook: Linear Autoencoder](3.%20Convolutional%20Neural%20Networks/L5%20Autoencoders/autoencoder/linear-autoencoder/Simple_Autoencoder.ipynb)
+
+- [Notebook: Convolutional Autoencoder](3.%20Convolutional%20Neural%20Networks/L5%20Autoencoders/autoencoder/convolutional-autoencoder/Convolutional_Autoencoder.ipynb)
+
+- [Notebook: Upsampling](3.%20Convolutional%20Neural%20Networks/L5%20Autoencoders/autoencoder/convolutional-autoencoder/Upsampling.ipynb)
+
+- [Notebook: Denoising Autoencoder](3.%20Convolutional%20Neural%20Networks/L5%20Autoencoders/autoencoder/denoising-autoencoder/Denoising_Autoencoder.ipynb)
+
 #### Lesson 6 - Style Transfer
 
 - [Notebook: Neural Style Transfer](3.%20Convolutional%20Neural%20Networks/L6%20Style%20Transfer/style-transfer/Style_Transfer.ipynb)
 
 ### Project - [Dog Breed Classifier](https://github.com/gokriznastic/dog-breed-classifier)
+
+#### Lesson 8 - Deep Learning for Cancer Detection
+
+_TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokriznastic/dermatologist-ai)
+
+#### Lesson 9 - Jobs in Deep Learning
+
+-----------------------------------------------------------------------------------------------------------
+
+## Recurrent Neural Networks
+
