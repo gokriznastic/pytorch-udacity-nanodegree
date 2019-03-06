@@ -109,3 +109,6 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 
 ## Recurrent Neural Networks
 
+#### Lesson 1 - Recurrent Neural Networks
+
+#### Lesson 2 - Long Short-Term Memory Networks (LSTMs)
