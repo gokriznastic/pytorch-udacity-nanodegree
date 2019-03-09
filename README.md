@@ -112,3 +112,11 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 #### Lesson 1 - Recurrent Neural Networks
 
 #### Lesson 2 - Long Short-Term Memory Networks (LSTMs)
+
+#### Lesson 3 - Implementation of RNN & LSTM
+
+- [Notebook: Simple RNN](4.%20Recurrent%20Neural%20Networks/L3%20recurrent-neural-networks/time-series/Simple_RNN.ipynb)
+
+- [Notebook: Character-Level RNN](4.%20Recurrent%20Neural%20Networks/L3%20recurrent-neural-networks/char-rnn/Character_Level_RNN.ipynb)
+
+#### Lesson 4 - Hyperparameters
