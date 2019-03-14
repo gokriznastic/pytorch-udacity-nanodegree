@@ -120,3 +120,9 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 - [Notebook: Character-Level RNN](4.%20Recurrent%20Neural%20Networks/L3%20recurrent-neural-networks/char-rnn/Character_Level_RNN.ipynb)
 
 #### Lesson 4 - Hyperparameters
+
+#### Lesson 5 - Embeddings & Word2Vec
+
+- [Notebook: Skip-Grams Word2Vec](4.%20Recurrent%20Neural%20Networks/L5%20word2vec-embeddings/Skip_Grams_Word2Vec.ipynb)
+
+- [Notebook: Word2Vec with Negative Subsampling](4.%20Recurrent%20Neural%20Networks/L5%20word2vec-embeddings/Negative_Sampling.ipynb)
