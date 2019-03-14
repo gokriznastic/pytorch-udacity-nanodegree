@@ -126,3 +126,7 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 - [Notebook: Skip-Grams Word2Vec](4.%20Recurrent%20Neural%20Networks/L5%20word2vec-embeddings/Skip_Grams_Word2Vec.ipynb)
 
 - [Notebook: Word2Vec with Negative Subsampling](4.%20Recurrent%20Neural%20Networks/L5%20word2vec-embeddings/Negative_Sampling.ipynb)
+
+#### Lesson 6 - Sentiment Prediction RNN
+
+- [Notebook: Sentiment Prediction RNN](4.%20Recurrent%20Neural%20Networks/L6%20sentiment-rnn/Sentiment_RNN.ipynb)
