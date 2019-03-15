@@ -130,3 +130,5 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 #### Lesson 6 - Sentiment Prediction RNN
 
 - [Notebook: Sentiment Prediction RNN](4.%20Recurrent%20Neural%20Networks/L6%20sentiment-rnn/Sentiment_RNN.ipynb)
+
+### Project - [Generate TV Scripts](https://github.com/gokriznastic/generate-tv-scripts)
