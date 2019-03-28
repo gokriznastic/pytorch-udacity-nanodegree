@@ -141,3 +141,6 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 
 ## Generative Adversarial Networks
 
+#### Lesson 1 - Generative Adversarial Networks
+- [Notebook: MNIST_GAN](5.%20Generative%20Adversarial%20Networks/L1%20gan-mnist/MNIST_GAN.ipynb)
+
