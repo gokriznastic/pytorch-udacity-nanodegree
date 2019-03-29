@@ -151,3 +151,4 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 
 - [Notebook: DCGAN](5.%20Generative%20Adversarial%20Networks/L2%20dcgan/dcgan-svhn)
 
+### Project - [Generate Faces](https://github.com/gokriznastic/gan-genarate-faces)
