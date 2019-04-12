@@ -142,5 +142,15 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 ## Generative Adversarial Networks
 
 #### Lesson 1 - Generative Adversarial Networks
+
 - [Notebook: MNIST_GAN](5.%20Generative%20Adversarial%20Networks/L1%20gan-mnist/MNIST_GAN.ipynb)
 
+#### Lesson 2 - Deep Convolutional GANs
+
+- [Notebook: Batch Normalization](5.%20Generative%20Adversarial%20Networks/L2%20dcgan/batch-norm/Batch_Normalization.ipynb)
+
+- [Notebook: DCGAN](5.%20Generative%20Adversarial%20Networks/L2%20dcgan/dcgan-svhn)
+
+#### Lesson 3 - Pix2Pix & CycleGAN
+
+### Project - [Generate Faces](https://github.com/gokriznastic/gan-genarate-faces)
