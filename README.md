@@ -153,4 +153,8 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 
 #### Lesson 3 - Pix2Pix & CycleGAN
 
+#### Lesson 4 - Implementing a CycleGAN
+
+- [Notebook: CycleGAN](5.%20Generative%20Adversarial%20Networks/L4%20cycle-gan/CycleGAN.ipynb)
+
 ### Project - [Generate Faces](https://github.com/gokriznastic/gan-genarate-faces)
