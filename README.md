@@ -168,3 +168,5 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 #### Building a Model using SageMaker
 
 - [Notebook: Building Modlel Using Sagemaker (Batch Transform)](6.%20Deploying%20a%20Model/L2%20Building%20a%20Model%20using%20SageMaker/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Batch%20Transform).ipynb)
+
+#### Deploying and Using a Model
