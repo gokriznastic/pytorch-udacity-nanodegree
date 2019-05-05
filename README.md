@@ -163,10 +163,14 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 
 ## Deploying a Model
 
-#### Introduction to Deployment
+#### Lesson 1 - Introduction to Deployment
 
-#### Building a Model using SageMaker
+#### Lesson 2 - Building a Model using SageMaker
 
-- [Notebook: Building Modlel Using Sagemaker (Batch Transform)](6.%20Deploying%20a%20Model/L2%20Building%20a%20Model%20using%20SageMaker/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Batch%20Transform).ipynb)
+- [Notebook: Building Model Using Sagemaker (Batch Transform)](6.%20Deploying%20a%20Model/L2%20Building%20a%20Model%20using%20SageMaker/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Batch%20Transform).ipynb)
 
-#### Deploying and Using a Model
+#### Lesson 3 - Deploying and Using a Model
+
+#### Lesson 4 - Hyperparameter Tuning
+
+- [Notebook: Hyperparameter Tuning](6.%20Deploying%20a%20Model/L4%20Hyperparameter%20Tuning/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Hyperparameter%20Tuning).ipynb)
