@@ -174,3 +174,5 @@ _TODO:_ [Mini-project to detect skin cancer from images](https://github.com/gokr
 #### Lesson 4 - Hyperparameter Tuning
 
 - [Notebook: Hyperparameter Tuning](6.%20Deploying%20a%20Model/L4%20Hyperparameter%20Tuning/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Hyperparameter%20Tuning).ipynb)
+
+### Project - [Deploying a Sentiment Analysis Model](https://github.com/gokriznastic/sentiment-analysis-deployment)
